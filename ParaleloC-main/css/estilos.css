@@ -1,0 +1,14 @@
+#titulo {
+    color: rgb(89, 18, 74);
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo2{
+    color: salmon;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    color: blue;
+}

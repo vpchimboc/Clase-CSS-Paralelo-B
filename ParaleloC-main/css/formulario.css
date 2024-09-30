@@ -1,0 +1,35 @@
+form{
+    border-style: double;
+    border-color: blue;
+    width: 50vw;
+    height: 100vh;
+    border-radius: 10px;
+    margin: auto;
+}
+
+table{
+    margin: 30px 30px 30px 30px;
+}
+label{
+    padding: 20px 10px 30px 10px;
+    margin: 20px 10px 30px 10px;
+    font-size: 1rem;
+}
+
+@media(min-width:1024px) {
+    .contenedor{
+        width: 80%;
+    }
+}
+
+@media(min-width:768px) and (min-width:1023px){
+    .contenedor{
+        width: 90%;
+    }
+}
+
+@media(min-width:767px){
+    .contenedor{
+        width: 100%;
+    }
+}
